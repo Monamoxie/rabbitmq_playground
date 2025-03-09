@@ -9,5 +9,6 @@
  |         |  
  |_________| 
 ```
+🚧 NOTHING HERE 🚧
 
-For learning, experimenting, and following an online tutorial. Simply refeshing my knowledge and skills. 
+For experimenting, following an online tutorial and the official documentation. Simply refeshing my knowledge and skills. 
